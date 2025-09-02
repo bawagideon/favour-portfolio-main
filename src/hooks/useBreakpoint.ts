@@ -18,7 +18,6 @@
  * @see https://stackoverflow.com/a/76630444/6543935
  * @requirements npm install react-responsive
  */
-import { useMediaQuery } from "react-responsive"
 import resolveConfig from "tailwindcss/resolveConfig"
 
 import tailwindConfig from "../../tailwind.config.ts" // Your tailwind config
